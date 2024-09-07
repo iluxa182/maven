@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.merion</groupId>
+    <artifactId>maven</artifactId>
+    <version>1.0.0</version>
+
+    <packaging>pom</packaging>
+    <name>suite</name>
+    <url>maven.apache.org</url>
+
+    <properties>
+        <maven.compiler.sourse>22</maven.compiler.sourse>
+        <maven.compiler.sourse>22</maven.compiler.sourse>
+    </properties>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/license/mit</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name> ILUA BARANOV</name>
+            <email>Iluxa182@yandex.ru</email>
+            <organization>com.github.ilua-baranov</organization>
+            <organizationUrl>https://github.com/iluxa182</organizationUrl>
+        </developer>
+    </developers>
+
+    <modules>
+        <module>../core</module>
+        <module>../service</module>
+        <module>../console</module>
+    </modules>
+
+
+
+
+
+
+
+</project>
